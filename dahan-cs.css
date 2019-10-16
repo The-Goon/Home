@@ -1,0 +1,44 @@
+@charset "euc-kr";
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+img {border:0px;}
+
+
+html{height:100%;}
+body {margin-left:0px; margin-right:0px; margin-top:0px; margin-bottom:0px; height:100%;}
+body, td, p, input, button, textarea, select, .c1 {font-family: Nanum Gothic, sans-serif; font-size:10pt;}
+
+
+/*
+.tm01{font-size:16px; font-weight:bold; color:#333333; text-decoration:none; padding:0px 0px 0px 50px; line-height:80px;}
+.tm02{font-size:16px; font-weight:bold; color:#333333; text-decoration:none; padding:0px 0px 0px 50px; line-height:80px;}
+.tm03{font-size:16px; font-weight:bold; color:#333333; text-decoration:none; padding:0px 0px 0px 50px; line-height:80px;}
+.tm04{font-size:16px; font-weight:bold; color:#333333; text-decoration:none; padding:0px 0px 0px 50px; line-height:80px;}
+.tm05{font-size:16px; font-weight:bold; color:#333333; text-decoration:none; padding:0px 0px 0px 50px; line-height:80px;}
+*/
+
+#topmenu a{font-size:16px; font-weight:bold; color:#333333; text-decoration:none; padding:0px 0px 0px 50px; line-height:80px;}
+.top01, .top02{font-soize:12px; color:#ffffff; text-decoration:none; line-height:25px;}
+
+
+#topbg{width:100%; background-color:#1c293a;}
+#mainbg{background:url(/skin/business20130720/gnuboard4/images/mainbg.jpg) center top no-repeat;}
+.bn01 a{background:url(/skin/business20130720/gnuboard4/images/bn01.png) center top no-repeat; width:224px; height:258px; display:block;}
+.bn02 a{background:url(/skin/business20130720/gnuboard4/images/bn02.png) center top no-repeat; width:224px; height:258px; display:block;}
+.bn03 a{background:url(/skin/business20130720/gnuboard4/images/bn03.png) center top no-repeat; width:224px; height:258px; display:block;}
+
+.bn01 a:hover{background:url(/skin/business20130720/gnuboard4/images/bn_on01.png) center top no-repeat; transition: all 1s;}
+.bn02 a:hover{background:url(/skin/business20130720/gnuboard4/images/bn_on02.png) center top no-repeat; transition: all 1s;}
+.bn03 a:hover{background:url(/skin/business20130720/gnuboard4/images/bn_on03.png) center top no-repeat; transition: all 1s;}
+
+
+#line{width:100%; background-color:#ebebeb; border-bottom:2px solid #ebebeb; margin-bottom:6px; }
+.copy{text-align: left;}
+#subtopbg{background:url(/skin/business20130720/gnuboard4/images/subtop.jpg) center top no-repeat; width:2500px; height:254px;}
+
+.btl2{font-size:23px; padding-top:5px; }
+.btl3{height:2px; background-color:#555555; margin:5px 0px 30px 0px;}
+.btl4{height:2px; background-color:#1c293a; margin:5px 0px 8px 0px;}
+
+#menu a {color:#333333; font-size:14px; background-color:#fff; text-decoration:none;  height:40px;  line-height:40px; padding-left:18px; display:block;width:220px;}
+#menu a:hover {color:#333333; background:url(/skin/business20130720/gnuboard4/images/sumubg.jpg) left top no-repeat; font-weight:bold;}
+#bigtit{font-size:28px; color:#333;}
