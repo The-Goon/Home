@@ -20,7 +20,7 @@ body, td, p, input, button, textarea, select, .c1 {font-family: Nanum Gothic, sa
 .top01, .top02{font-soize:12px; color:#ffffff; text-decoration:none; line-height:25px;}
 
 
-#topbg{width:100%; background-color:#1c293a;}
+#topbg{width:1200%; background-color:#1c293a;}
 #mainbg{background:url(/skin/business20130720/gnuboard4/images/mainbg.jpg) center top no-repeat;}
 .bn01 a{background:url(/skin/business20130720/gnuboard4/images/bn01.png) center top no-repeat; width:224px; height:258px; display:block;}
 .bn02 a{background:url(/skin/business20130720/gnuboard4/images/bn02.png) center top no-repeat; width:224px; height:258px; display:block;}
